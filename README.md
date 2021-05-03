@@ -1,6 +1,6 @@
 # Applied-Bayesian-Modeling-Summer-Reading-Group
 
-### Sign-up link here!
+### [Sign-up link here!](https://docs.google.com/forms/d/e/1FAIpQLSfIvJpQ-o-GKXgF74niIdL360LaIVDRfm-5uwjpWgVvzzeQAQ/viewform?usp=sf_link)
 
 ## FAQ
 
