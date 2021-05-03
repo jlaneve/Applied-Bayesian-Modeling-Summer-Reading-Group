@@ -15,6 +15,12 @@ An excellent set of examples of Bayesian models can be found in the [examples se
 Here's a quick example. Suppose you observe a series of observations along a sample path of a geometric Brownian motion
 <img src="https://latex.codecogs.com/svg.latex?dX_t&space;=&space;\mu&space;X_t&space;\,&space;dt&space;&plus;&space;\sigma&space;X_t&space;dW_t" title="dX_t = \mu X_t \, dt + \sigma X_t dW_t" />
 
+<div class="math">
+\begin{equation}
+  \int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}  
+\end{equation}
+</div>
+
 
 ### Why is this?
 
