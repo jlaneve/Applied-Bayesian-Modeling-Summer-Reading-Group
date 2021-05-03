@@ -59,11 +59,11 @@ This is a very rough outline of what we'll cover each week. SR stands for the St
 
 | Week | Topic                   | Readings             | Examples |
 |------|-------------------------|----------------------|----------|
-|  #1  | **Introduction.** Bayesian vs. Frequentist, weighted coin-flipping, Bayesian linear regression, hypothesis testing.            | SR Ch. 1; BMH Ch. 1           | None |
-|  #2  | **Ingredients for a Model.**  | TBA                  | TBA      |
-|  #3  | TBA                     | TBA                  | TBA      |
-|  #4  | TBA                     | TBA                  | TBA      |
-|  #5  | TBA                     | TBA                  | TBA      |
-|  #6  | TBA                     | TBA                  | TBA      |
-|  #7  | TBA                     | TBA                  | TBA      |
-|  #8  | TBA                     | TBA                  | TBA      |
+|  #1  | **Introduction.** Bayesian vs. Frequentist, weighted coin-flipping, Bayesian linear regression, hypothesis testing.            | SR Ch. 1; BMH Ch. 1           | [BEST](https://docs.pymc.io/pymc-examples/examples/case_studies/BEST.html); |
+|  #2  | **Ingredients for a Model.** Introduction to PyMC, probabilistic programming, priors,  | SR Ch. 2                  | TBA      |
+|  #3  | **Looking Under-the-Hood.** Monte Carlo methods, MCMC,                      | TBA                  | TBA      |
+|  #4  | **Multivariate Models.** Multivariate Gaussians, inverse Wishart distribution,  | TBA                  | [Multivariate Normal Models](https://docs.pymc.io/pymc-examples/examples/case_studies/LKJ.html);       |
+|  #5  | **Time-Series Models.**                     | TBA                  | [Stochastic Volatility](https://docs.pymc.io/pymc-examples/examples/case_studies/stochastic_volatility.html);      |
+|  #6  | **Hierarchical Models.**                     | TBA                  | TBA      |
+|  #7  | **Gaussian Process Models.**                     | TBA                  | CO2 at Mauna Loa [Part 1](https://docs.pymc.io/pymc-examples/examples/gaussian_processes/GP-MaunaLoa.html), [Part 2](https://docs.pymc.io/pymc-examples/examples/gaussian_processes/GP-MaunaLoa2.html);      |
+|  #8  | **Model Criticism.**                     | TBA                  | TBA      |
