@@ -10,7 +10,10 @@ Our reading material will consist of a blend of books, Jupyter Notebooks, blog p
 
 ### What are some examples of what I'll learn to do?
 
-An excellent set of examples of Bayesian models can be found in the [examples section of the PyMC documentation](https://docs.pymc.io/nb_examples/index.html) (this is what we'll be using to implement models). On a very high-level, suppose you have some data observations and a statistical model for what you think generates the data. Your model will depend on various parameters (e.g. if the data is linear, fitting $ f(x) = mx + b $ uses two parameters, $ m $ and $ b $ ).
+An excellent set of examples of Bayesian models can be found in the [examples section of the PyMC documentation](https://docs.pymc.io/nb_examples/index.html) (this is what we'll be using to implement models). On a very high-level, suppose you have some data observations and a statistical model for what you think generates your data. Your model will depend on various parameters (e.g. if the data is linear, you would have a parameter for the slope, the intercept, and possibly the variance of the observational noise). Bayesian inference answers the question: given my model and my prior beliefs about the parameter values, what are the most likely values for each of my model parameters conditional on my observed data?
+
+Here's a quick example. Suppose you observe a series of observations along a sample path of a geometric Brownian motion
+<img src="https://latex.codecogs.com/gif.latex?dX_t = \mu X_t \, dt + \sigma X_t dW_t " /> 
 
 
 ### Why is this?
@@ -35,7 +38,7 @@ In order to get the most out of this group, participants should have some prior 
 
 ### Projects?
 
-Participants will be highly encouraged to plan and conduct their own original project to complete alongside the reading group. Guidelines for this are open-ended and participants can make their projects as involved as they would like - you'll get out of the project what you put into it. Jonathan will be available to meet and help you out with your project if desired. Depending on how the projects turn out, we may try to assemble them all into a notebook or a report. 
+Participants will be highly encouraged to plan and conduct their own original project to complete alongside the reading group. Guidelines for this are open-ended and participants can make their projects as involved as they would like - you'll get out of the project what you put into it. Jonathan will be available to meet and help you out with planning/implmenting your project if desired. Depending on how the projects turn out, we may try to assemble them all into a notebook or a report. 
 
 
 ## Outline
