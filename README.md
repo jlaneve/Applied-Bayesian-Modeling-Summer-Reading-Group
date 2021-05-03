@@ -1,5 +1,7 @@
 # Applied-Bayesian-Modeling-Summer-Reading-Group
 
+### Sign-up Link Here!
+
 ## FAQ
 
 ### What is this?
