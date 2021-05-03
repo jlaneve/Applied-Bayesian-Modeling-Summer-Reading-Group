@@ -61,7 +61,7 @@ This is a working outline of what we'll cover each week (currently very incomple
 |------|-------------------------|----------------------|----------|
 |  #1  | **Introduction.** Bayesian vs. Frequentist, weighted coin-flipping, Bayesian linear regression, hypothesis testing.            | SR Ch. 1; BMH Ch. 1           | [BEST](https://docs.pymc.io/pymc-examples/examples/case_studies/BEST.html); |
 |  #2  | **Ingredients for a Model.** Introduction to PyMC, probabilistic programming, priors,  | SR Ch. 2                  | TBA      |
-|  #3  | **Looking Under-the-Hood.** Monte Carlo methods, MCMC,                      | TBA                  | TBA      |
+|  #3  | **Looking Under-the-Hood.** Monte Carlo methods, MCMC.                      | TBA                  | [MCMC Gallery](http://chi-feng.github.io/mcmc-demo/app.html?algorithm=MALA&target=banana).      |
 |  #4  | **Multivariate Models.** Multivariate Gaussians, inverse Wishart distribution,  | TBA                  | [Multivariate Normal Models](https://docs.pymc.io/pymc-examples/examples/case_studies/LKJ.html);       |
 |  #5  | **Hierarchical Models.**                      | TBA                  | [Radon Regression Example](https://docs.pymc.io/pymc-examples/examples/generalized_linear_models/GLM-hierarchical.html);  [Hierarchical Binomial (Rat Tumors)](https://docs.pymc.io/pymc-examples/examples/generalized_linear_models/GLM-hierarchical-binominal-model.html); Industry Weighted Average Cost of Capital (WACC);      |
 |  #6  | **Time-Series Models.**                     | TBA                  | [Stochastic Volatility](https://docs.pymc.io/pymc-examples/examples/case_studies/stochastic_volatility.html);      |
