@@ -13,7 +13,7 @@ Our reading material will consist of a blend of books, Jupyter Notebooks, blog p
 An excellent set of examples of Bayesian models can be found in the [examples section of the PyMC documentation](https://docs.pymc.io/nb_examples/index.html) (this is what we'll be using to implement models). On a very high-level, suppose you have some data observations and a statistical model for what you think generates your data. Your model will depend on various parameters (e.g. if the data is linear, you would have a parameter for the slope, the intercept, and possibly the variance of the observational noise). Bayesian inference answers the question: given my model and my prior beliefs about the parameter values, what are the most likely values for each of my model parameters conditional on my observed data?
 
 Here's a quick example. Suppose you observe a series of observations along a sample path of a geometric Brownian motion
-<img src="https://latex.codecogs.com/gif.latex?dX_t = \mu X_t \, dt + \sigma X_t dW_t " /> 
+<img src="https://latex.codecogs.com/svg.latex?dX_t&space;=&space;\mu&space;X_t&space;\,&space;dt&space;&plus;&space;\sigma&space;X_t&space;dW_t" title="dX_t = \mu X_t \, dt + \sigma X_t dW_t" />
 
 
 ### Why is this?
