@@ -1,6 +1,6 @@
 # Applied-Bayesian-Modeling-Summer-Reading-Group
 
-## FAQ:
+## FAQ
 
 ### What is this?
 
