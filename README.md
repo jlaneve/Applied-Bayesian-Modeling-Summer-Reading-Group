@@ -53,11 +53,15 @@ Participants will be highly encouraged to plan and conduct their own original pr
 
 ## Outline
 
-| Parameter | Meaning                          |   |
-|-----------|----------------------------------|---|
-|     1     | time-dependent transmission rate |   |
-|     2     | infection fatality ratio         |   |
-|     3     | recovery rate                    |   |
-|     4     | fatality transition rate         |   |
-|           |                                  |   |
-|           |                                  |   |
+This is a very rough outline of what we'll cover each week. SR stands for the Statistical Rethinking book, BMH stands for the Bayesian Methods for Hackers book.
+
+| Week | Topic                   | Readings             | Examples |
+|------|-------------------------|----------------------|----------|
+|  #1  | Introduction            | SR Ch. 1;            | None     |
+|  #2  | Ingredients for a Model | TBA                  | TBA      |
+|  #3  | TBA                     | TBA                  | TBA      |
+|  #4  | TBA                     | TBA                  | TBA      |
+|  #5  | TBA                     | TBA                  | TBA      |
+|  #6  | TBA                     | TBA                  | TBA      |
+|  #7  | TBA                     | TBA                  | TBA      |
+|  #8  | TBA                     | TBA                  | TBA      |
