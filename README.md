@@ -52,3 +52,12 @@ Participants will be highly encouraged to plan and conduct their own original pr
 
 
 ## Outline
+
+| Parameter | Meaning                          |   |
+|-----------|----------------------------------|---|
+|     1     | time-dependent transmission rate |   |
+|     2     | infection fatality ratio         |   |
+|     3     | recovery rate                    |   |
+|     4     | fatality transition rate         |   |
+|           |                                  |   |
+|           |                                  |   |
