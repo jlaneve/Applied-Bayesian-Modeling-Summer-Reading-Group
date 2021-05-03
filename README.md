@@ -12,9 +12,17 @@ Our reading material will consist of a blend of books, Jupyter Notebooks, blog p
 
 An excellent set of examples of Bayesian models can be found in the [examples section of the PyMC documentation](https://docs.pymc.io/nb_examples/index.html) (this is what we'll be using to implement models). On a very high-level, suppose you have some data observations and a statistical model for what you think generates your data. Your model will depend on various parameters (e.g. if the data is linear, you would have a parameter for the slope, the intercept, and possibly the variance of the observational noise). Bayesian inference answers the question: given my model and my prior beliefs about the parameter values, what are the most likely values for each of my model parameters conditional on my observed data?
 
-Here's a quick example. Suppose you observe a series of observations along a sample path of a [geometric Brownian motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion), such as shown below.
+Here's a quick example. Suppose you observe a series of observations along a sample path of a [geometric Brownian motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion) (don't worry if you don't know what this is!), such as shown below.
+
 <img src="https://qed404.com/static/assets/gbm_path.jpg"/>
 
+The geometric Brownian motion model depends on two parameters, namely mu and sigma. So, given our data observations above, what can we say about the values of mu and sigma? After we place some prior distribution on these parameters, we can use Bayesian inference to get a sense of what the most likely values for mu and sigma are.
+
+<img src="https://qed404.com/static/assets/gbm_trace.jpg"/>
+
+The histograms above indicate our posterior distributions over these two parameters given our model, prior, and data. An interesting thing to note about Bayesian models is that they are [generative](https://en.wikipedia.org/wiki/Generative_model), meaning that it is straightforward to then generate "fake" data that mimics our data observations, which very well could've been the data we observed should randomness have played out differently.
+
+<img src="https://qed404.com/static/assets/gbm_post_pred.jpg"/>
 
 ### Why is this?
 
