@@ -59,8 +59,8 @@ This is a very rough outline of what we'll cover each week. SR stands for the St
 
 | Week | Topic                   | Readings             | Examples |
 |------|-------------------------|----------------------|----------|
-|  #1  | Introduction            | SR Ch. 1;            | None     |
-|  #2  | Ingredients for a Model | TBA                  | TBA      |
+|  #1  | **Introduction.** Bayesian vs. Frequentist, weighted coin-flipping, Bayesian linear regression, hypothesis testing.            | SR Ch. 1; BMH Ch. 1           | None |
+|  #2  | **Ingredients for a Model.**  | TBA                  | TBA      |
 |  #3  | TBA                     | TBA                  | TBA      |
 |  #4  | TBA                     | TBA                  | TBA      |
 |  #5  | TBA                     | TBA                  | TBA      |
