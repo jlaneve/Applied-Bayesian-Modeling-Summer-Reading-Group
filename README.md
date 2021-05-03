@@ -55,7 +55,7 @@ Participants will be highly encouraged to plan and conduct their own original pr
 
 ## Outline
 
-This is a very rough outline of what we'll cover each week. SR stands for the Statistical Rethinking book, BMH stands for the Bayesian Methods for Hackers book.
+This is a working outline of what we'll cover each week (currently very incomplete). SR stands for the Statistical Rethinking book, BMH stands for the Bayesian Methods for Hackers book.
 
 | Week | Topic                   | Readings             | Examples |
 |------|-------------------------|----------------------|----------|
