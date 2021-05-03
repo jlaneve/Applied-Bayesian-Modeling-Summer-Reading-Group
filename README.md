@@ -24,6 +24,8 @@ The histograms above indicate our posterior distributions over these two paramet
 
 <img src="https://qed404.com/static/assets/gbm_post_pred.jpg"/>
 
+Still not sure if you're interested? Checkout some recordings of the talks that were given at [PyMCon 2020](https://pymc-devs.github.io/pymcon/schedule) or [this podcast](https://www.learnbayesstats.com/) on Bayesian statistics for some more examples.
+
 ### Why is this?
 
 Many students don't typically encounter Bayesian methods in their coursework, and even if they do they often are just introduced to the basic theory rather than how to go about building models themselves. Bayesian modeling can be a bit challenging to get started with on your own, and this group is meant to equip beginners with what they need to know in order to pursue whatever projects or applications they might be interested in.
