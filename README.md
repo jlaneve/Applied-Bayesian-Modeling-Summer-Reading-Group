@@ -10,7 +10,7 @@ Our reading material will consist of a blend of books, Jupyter Notebooks, blog p
 
 ### What are some examples of what I'll learn to do?
 
-An excellent set of examples of Bayesian models can be found in the [examples section of the PyMC documentation](https://docs.pymc.io/nb_examples/index.html) (this is what we'll be using to implement models). On a very high-level, suppose you have some data observations and a statistical model for what you think generates the data. Your model will depend on various parameters (e.g. if the data is linear, fitting $$ f(x) = mx + b $$ uses two parameters, $$ m $$ and $$ b $$ ).
+An excellent set of examples of Bayesian models can be found in the [examples section of the PyMC documentation](https://docs.pymc.io/nb_examples/index.html) (this is what we'll be using to implement models). On a very high-level, suppose you have some data observations and a statistical model for what you think generates the data. Your model will depend on various parameters (e.g. if the data is linear, fitting $ f(x) = mx + b $ uses two parameters, $ m $ and $ b $ ).
 
 
 ### Why is this?
